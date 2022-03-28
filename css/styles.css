@@ -1,0 +1,22 @@
+
+body {
+	
+	background-color:#fc23fc;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: .60em;
+}
+
+#picture{
+	border-radius: 55px;
+	
+	border-style: solid;
+ 	border-color: black;
+	width: 300px;
+}
+
+#basic{
+	text-align: center;
+	}
+#grab{
+	cursor: -webkit-grab; cursor: grab;}
+}
